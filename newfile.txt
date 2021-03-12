@@ -2,3 +2,4 @@ Inserting a new file
 updating the file
 
 added new features
+feature2
